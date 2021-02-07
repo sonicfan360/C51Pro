@@ -1,0 +1,25 @@
+.Info{
+    background-color:  rgb(247, 0, 255);
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap
+}
+.GImage{
+    width:50%;
+    
+
+}
+.facts{
+    background-color: rgb(247, 0, 255);
+    color:blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+.Gjr{
+    background-color:rgb(247, 0, 255);
+    color:rgb(0, 255, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
